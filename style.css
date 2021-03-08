@@ -1,0 +1,243 @@
+
+
+      
+.imageC{
+    margin-top: 40px; 
+    margin-bottom: 40px;
+    margin-left: 100px;
+    margin-right: 100px;
+   
+}
+.lead{
+    text-align:center;
+    color: #00b39b;
+    margin-top: 10px ;
+    margin-bottom: 34px;
+    font-family: Work Sans,Arial,sans-serif;
+    font-weight: 300;
+    letter-spacing: -.3px;
+    line-height: 1.3;
+
+
+
+}
+
+.presentation h1{
+    margin-top: 15px; 
+    margin-bottom: 40px;
+
+}
+.doctors  {
+    background-color:#3d83df;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    
+     }
+.patients  {
+    background-color:#00ccb1;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+      }
+.clinics  {
+    background-color:#747474;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+
+    .columns {
+        margin-top: 60px; 
+        margin-bottom: 40px;
+        border-radius: 10px;
+    }
+   body{
+    padding-top: 70px;
+   }
+   div {
+    display: block;
+}
+h2{
+    color: white;
+}
+#C{
+    font-weight:100-900;
+}
+h1, h2, h4, h5, h6{
+    margin-top: 800;
+    margin-bottom: .5rem;
+    font-weight: 300;
+    line-height: 1.2;
+    font-family: Roboto,Arial,sans-serif;
+    letter-spacing: -.3px;}
+
+    p{
+        font-weight: 400;
+        color: #747474;
+        margin: .8em 0;
+    line-height: 1.75;
+    }
+
+
+.logo_brands {
+
+display: flex;
+flex-wrap: wrap;
+
+list-style: none;
+    }
+
+   
+
+    .papa{
+    padding-left: 32px;
+}
+.global h1{
+    
+    color: #00b39b;
+    margin: .25em 0 .35em;
+    padding-right: 1em;
+    font-family: Work Sans,Arial,sans-serif;
+    font-weight: 100;
+    letter-spacing: -.3px;
+    float: center;
+    width: 100%;
+    font-size: 1.625em;
+    margin: .25em 0 .35em;
+    padding-right: 1em;
+    font-size: 1.625em ;
+    
+}
+.grid{
+
+    display: flex;
+    flex-wrap: wrap;
+    background: #e5faf8;
+    background-image: linear-gradient(-45deg,rgba(0,204,177,.01) 5%,rgba(61,199,223,.1));
+    padding: 1.875em 0 .625em;
+    overflow: hidden;
+    margin: 3.125rem auto 5.5rem;
+
+}
+.ab{
+    width: 160px;
+    height: 40px;
+}
+svg{
+    line-height: 1.3;
+    font-weight: 400;
+    font-family: Roboto,Arial,sans-serif;
+    -webkit-font-smoothing: antialiased;
+    list-style: none;
+    font-size: 1rem;
+    color: #3d83df;
+    box-sizing: inherit;
+    overflow: hidden;
+    max-width: 100%;
+    padding-left: 10px;
+}
+.vert-align{
+
+
+font-family: Roboto,Arial,sans-serif;
+color: #747474;
+-webkit-font-smoothing: antialiased;
+box-sizing: inherit;
+background: #fff;
+border-radius: 5px;
+box-shadow: 0 1px 4px 0 rgba(0,0,0,.05);
+height: 250px;
+text-align: center;
+padding: 15px;
+font-size: .8125em;
+line-height: 1.3;
+-webkit-font-smoothing: antialiased;
+text-align: center;
+box-sizing: inherit;
+font-family: Work Sans,Arial,sans-serif;
+
+color: #00b39b;
+margin: .5em 0;
+}
+.stats__item{
+display: flex;
+align-items: flex-end;
+justify-items: flex-end;
+}
+.vert-align h3{
+line-height: 1.3;
+-webkit-font-smoothing: antialiased;
+text-align: center;
+box-sizing: inherit;
+font-family: Work Sans,Arial,sans-serif;
+font-weight: 300;
+letter-spacing: -.3px;
+color: #00b39b;
+margin: .5em 0;
+text-align: center;
+}
+.vert-align p{
+line-height: 1.3;
+font-family: Roboto,Arial,sans-serif;
+color: #747474;
+text-align: center;
+font-size: 0.8125em;
+font-size: .8125em
+}
+
+.inner h1{
+    color: #00b39b;
+    text-align: center;
+}
+.improve h1{
+    font-style: #00b39b;
+    font-size: 2.1428571429em;
+}
+.improve {
+    text-align: center;
+    color: #00b39b;
+
+}
+.improve p{
+    margin: 1.6em 0;
+    font-size: .875em;
+    text-align: center;
+    display: flex;
+}
+.offices_sliders{
+    display: flex;
+
+}
+
+.sounds{
+    text-align: center;
+    color: #747474;
+    margin-top: 80px;
+    margin-bottom: 80px;
+    font-family: Work Sans,Arial,sans-serif;
+    font-weight: 300;
+    letter-spacing: -.3px;
+}
+.sounds a{
+    color: #fff;
+}
+
+.main_footer{
+    padding-top: 16px;
+    padding-bottom: 16px;
+}
+
+.main_footer p{
+   
+        display: block;
+        margin-block-start: 1em;
+        margin-block-end: 1em;
+        margin-inline-start: 0px;
+        margin-inline-end: 0px;
+    text-align: center;
+}
+
